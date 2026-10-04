@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Paid Media - Starter</title>
+  </head>
+  <body>
+    <outline text="Paid Media" title="Paid Media">
+      <outline type="rss" text="PPC Land" title="PPC Land" xmlUrl="https://ppc.land/rss/" htmlUrl="https://ppc.land/"/>
+      <outline type="rss" text="Search Engine Land" title="Search Engine Land" xmlUrl="https://searchengineland.com/feed" htmlUrl="https://searchengineland.com/"/>
+      <outline type="rss" text="Search Engine Journal - PPC" title="Search Engine Journal - PPC" xmlUrl="https://www.searchenginejournal.com/category/pay-per-click/feed/" htmlUrl="https://www.searchenginejournal.com/category/pay-per-click/"/>
+      <outline type="rss" text="Search Engine Roundtable" title="Search Engine Roundtable" xmlUrl="https://www.seroundtable.com/index.rdf" htmlUrl="https://www.seroundtable.com/"/>
+      <outline type="rss" text="Google Ads &amp; Commerce Blog" title="Google Ads &amp; Commerce Blog" xmlUrl="https://blog.google/products/ads-commerce/rss/" htmlUrl="https://blog.google/products/ads-commerce/"/>
+      <outline type="rss" text="Jon Loomer (Meta Ads)" title="Jon Loomer (Meta Ads)" xmlUrl="https://www.jonloomer.com/feed/" htmlUrl="https://www.jonloomer.com/"/>
+      <outline type="rss" text="Optmyzr Blog" title="Optmyzr Blog" xmlUrl="https://www.optmyzr.com/blog/feed/" htmlUrl="https://www.optmyzr.com/blog/"/>
+      <outline type="rss" text="Tinuiti Blog" title="Tinuiti Blog" xmlUrl="https://tinuiti.com/feed/" htmlUrl="https://tinuiti.com/blog/"/>
+      <outline type="rss" text="AdExchanger" title="AdExchanger" xmlUrl="https://www.adexchanger.com/feed/" htmlUrl="https://www.adexchanger.com/"/>
+      <outline type="rss" text="r/PPC" title="r/PPC" xmlUrl="https://www.reddit.com/r/PPC/.rss" htmlUrl="https://www.reddit.com/r/PPC/"/>
+    </outline>
+  </body>
+</opml>

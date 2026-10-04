@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400..700&family=Space+Grotesk:wght@500;700&display=swap');
+
+/* ---------- tokens ---------- */
+
+:root{
+  --bg:#E9E6E0; --fg:#2A2823; --dim:#5C564D; --acento:#35487F;
+  /* Avisos y "quitar": oxido oscuro, 6:1 sobre --bg. */
+  --aviso:#8C3A1A;
+  --bg-lector:#EDEBE6;
+  --sombra-o:#c8c2b8; --sombra-c:#ffffff;
+  /* Lo pulsable va elevado; lo activo, hundido. */
+  --elevado:7px 7px 15px var(--sombra-o),-7px -7px 15px var(--sombra-c);
+  --hundido:inset 4px 4px 9px var(--sombra-o),inset -4px -4px 9px var(--sombra-c);
+  --r-tarjeta:24px; --r-boton:22px;
+  --tactil:44px;
+  /* Capa de ajustes: panel oscuro sobre la app atenuada. Contrastes >= 6.8:1. */
+  --panel:#262A35; --panel-fg:#EDEBE6; --panel-dim:#B8B2A7; --panel-acento:#A9B8E6;
+  --panel-ok:#8FD1B4; --panel-aviso:#F2A07B; --velo:rgba(38,42,53,.45);
+  --elevado-osc:5px 5px 12px #1b1e26,-5px -5px 12px #313644;
+  --hundido-osc:inset 4px 4px 9px #1b1e26,inset -4px -4px 9px #313644;
+  /* Los colores de categoria vienen de categorias.json (ver src/categorias.js). */
+  --display:'Space Grotesk',system-ui,sans-serif;
+  --sans:'Plus Jakarta Sans',system-ui,sans-serif;
+}
+
+/* ---------- base ---------- */
+
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%;background:var(--bg)}
+body{background:var(--bg);color:var(--fg);font-family:var(--sans);font-weight:400;
+  min-height:100vh;padding-bottom:120px}
+.wrap{max-width:620px;margin:0 auto;padding:26px 20px 0}
+button,a{-webkit-tap-highlight-color:transparent}
+:focus-visible{outline:2px solid var(--acento);outline-offset:3px}
+
+/* Boton base: elevado, sin borde; al pulsarlo se hunde. */
+.back,.resto,.orig,.quitar,.reintentar,.dia,.filtrar,.limpiar,.aceptar{
+  display:inline-flex;align-items:center;justify-content:center;gap:8px;
+  min-height:var(--tactil);padding:10px 20px;border:0;border-radius:var(--r-boton);
+  background:var(--bg);box-shadow:var(--elevado);color:var(--fg);
+  font-family:var(--sans);font-weight:600;font-size:14px;text-decoration:none;cursor:pointer;
+  transition:box-shadow .2s}
+.back:active,.resto:active,.orig:active,.quitar:active,.reintentar:active,.dia:active,
+.filtrar:active,.limpiar:active,.aceptar:active{
+  box-shadow:var(--hundido)}
+
+/* ---------- cabecera ---------- */
+
+.bar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:22px}
+.nombre-app{font-family:var(--display);font-weight:700;font-size:15px;color:var(--dim)}
+.titulo-seccion{font-family:var(--display);font-weight:700;font-size:30px;line-height:1.15;
+  letter-spacing:-.02em;margin-bottom:6px}
+.date{font-family:var(--display);font-weight:500;font-size:14px;color:var(--dim);margin-bottom:22px}
+.aviso{font-size:13px;line-height:1.6;color:var(--aviso);background:var(--bg);
+  box-shadow:var(--hundido);border-radius:20px;padding:14px 18px;margin-bottom:24px}
+
+/* Boton circular de solo icono (engranaje, cerrar). */
+.icono{display:inline-flex;align-items:center;justify-content:center;flex:none;
+  width:var(--tactil);height:var(--tactil);border:0;border-radius:50%;cursor:pointer;
+  background:var(--bg);box-shadow:var(--elevado);color:var(--fg);transition:box-shadow .2s}
+.icono:active,.icono[aria-expanded="true"]{box-shadow:var(--hundido)}
+.icono svg{width:20px;height:20px;stroke:currentColor;fill:none;stroke-width:1.7;
+  stroke-linecap:round;stroke-linejoin:round}
+/* Novedades en ajustes sin ver: punto sobre el engranaje. */
+.icono{position:relative}
+.punto-aviso{position:absolute;top:7px;right:7px;width:9px;height:9px;border-radius:50%;
+  background:var(--aviso);box-shadow:0 0 0 2px var(--bg)}
+
+/* ---------- filtro por categoria ---------- */
+
+.filtros{margin-bottom:26px}
+.filtrar.activo{box-shadow:var(--hundido);color:var(--acento)}
+.filtrar.activo:active{box-shadow:var(--elevado)}
+
+/* ---------- item de la lista ---------- */
+
+/* El padding deja sitio a la sombra de la tarjeta, que overflow:hidden recortaria.
+   El margen negativo lo compensa para que la tarjeta siga alineada con el texto. */
+.swipe{position:relative;overflow:hidden;padding:22px 20px;margin:-22px -20px 0}
+/* Ranura hundida que queda al descubierto al deslizar la tarjeta. */
+.swipe-bg{position:absolute;inset:22px 20px;display:flex;align-items:center;padding-left:22px;
+  border-radius:var(--r-tarjeta);box-shadow:var(--hundido);
+  font-weight:600;font-size:13px;color:var(--acento);opacity:0;pointer-events:none}
+.swipe-bg.quitando{color:var(--aviso)}
+
+.item{display:block;position:relative;width:100%;min-height:var(--tactil);text-align:left;
+  background:var(--bg);box-shadow:var(--elevado);border:0;border-radius:var(--r-tarjeta);
+  padding:18px 22px;cursor:pointer;color:inherit;font:inherit;
+  touch-action:pan-y;transition:box-shadow .2s}
+.item:active{box-shadow:var(--hundido)}
+.item:focus-visible{outline-offset:-3px}
+.head{display:flex;align-items:center;gap:8px;margin-bottom:8px}
+.pip{width:8px;height:8px;border-radius:50%;flex:none}
+.src{font-size:12.5px;font-weight:600;color:var(--dim)}
+.ago{font-family:var(--display);font-weight:500;font-size:12.5px;color:var(--dim);margin-left:auto}
+.tl{display:block;font-family:var(--display);font-weight:500;font-size:17px;line-height:1.35;
+  letter-spacing:-.01em;padding-right:14px}
+.marca{position:absolute;right:16px;top:44px;width:10px;height:13px;background:var(--acento);
+  clip-path:polygon(0 0,100% 0,100% 100%,50% 72%,0 100%)}
+
+.resto{width:100%;margin-top:12px;color:var(--acento)}
+
+/* ---------- lector ---------- */
+
+/* Rompe el sistema a proposito: fondo plano, sin relieves salvo en los botones. */
+html:has(.reader),body:has(.reader){background:var(--bg-lector)}
+.reader{max-width:62ch}
+.reader .back,.reader .quitar,.reader .orig{background:var(--bg-lector)}
+.back{margin-bottom:28px}
+.reader h2{font-family:var(--display);font-weight:700;font-size:clamp(23px,6vw,30px);
+  line-height:1.2;letter-spacing:-.02em;margin-bottom:14px}
+/* El titulo recibe el foco por codigo al abrir el lector; no es un control. */
+.reader h2:focus{outline:none}
+.rmeta{font-size:13px;color:var(--dim);padding-bottom:6px;display:flex;align-items:center;gap:8px}
+.cuerpo{font-size:17px;line-height:1.6;margin-top:18px}
+.reader .aviso{box-shadow:none;background:none;padding:0;border-radius:0}
+.portada{display:block;width:100%;height:auto;margin-top:22px;border-radius:20px}
+.orig{margin-top:30px;color:var(--acento)}
+
+/* ---------- guardar / quitar ---------- */
+
+.quitar{margin-top:26px}
+.quitar.activo{color:var(--aviso);box-shadow:var(--hundido)}
+.quitar.activo:active{box-shadow:var(--elevado)}
+.reintentar{color:var(--acento);margin-top:18px}
+
+/* aviso discreto sobre la barra inferior */
+.toast{position:fixed;left:50%;transform:translateX(-50%);z-index:11;
+  bottom:calc(96px + env(safe-area-inset-bottom));max-width:calc(100% - 32px);
+  font-size:13px;font-weight:600;color:var(--aviso);background:var(--bg);
+  box-shadow:var(--elevado);border-radius:20px;padding:12px 18px}
+.toast:empty{display:none}
+
+.fila-guardado{display:flex;align-items:center;gap:6px}
+.fila-guardado .swipe{flex:1;min-width:0}
+.fila-guardado .quitar{flex:none;margin-top:-6px}
+.fila-guardado .marca{display:none}
+
+/* ---------- archivo ---------- */
+
+.dia{display:flex;justify-content:space-between;align-items:baseline;width:100%;
+  font-family:var(--display);font-weight:500;font-size:16px;text-align:left;
+  border-radius:20px;padding:16px 22px;margin-bottom:16px}
+.dia span{font-size:13px;color:var(--dim)}
+
+/* ---------- navegacion inferior ---------- */
+
+.tabs{position:fixed;left:0;right:0;bottom:0;z-index:10;
+  padding:0 16px calc(14px + env(safe-area-inset-bottom))}
+.tabs-in{max-width:420px;margin:0 auto;display:grid;grid-template-columns:repeat(3,1fr);gap:8px;
+  background:var(--bg);box-shadow:var(--elevado);border-radius:28px;padding:8px}
+.tab{min-height:var(--tactil);border:0;border-radius:var(--r-boton);background:var(--bg);
+  cursor:pointer;font-family:var(--sans);font-weight:600;font-size:14px;color:var(--dim);
+  text-transform:capitalize;transition:box-shadow .2s,color .2s}
+.tab[aria-current="page"]{color:var(--acento);box-shadow:var(--hundido)}
+
+.vacio{font-size:14px;color:var(--dim);text-align:center;padding:50px 0;line-height:1.8}
+
+/* ---------- bienvenida diaria ---------- */
+
+.bienvenida{position:fixed;inset:0;z-index:30;display:flex;align-items:center;justify-content:center;
+  width:100%;border:0;padding:24px;background:var(--bg);color:var(--fg);font:inherit;cursor:pointer;
+  animation:aparecer .35s ease-out;transition:opacity .4s,transform .4s}
+.bienvenida.saliendo{opacity:0;transform:scale(1.03)}
+.bienvenida:focus-visible{outline:none}
+.bienvenida:focus-visible .bienvenida-tarjeta{outline:2px solid var(--acento);outline-offset:6px}
+.bienvenida-tarjeta{display:flex;flex-direction:column;align-items:center;gap:14px;
+  padding:44px 36px;border-radius:36px;background:var(--bg);box-shadow:var(--elevado);max-width:100%}
+/* Texto en relieve: la misma pareja de sombras, a escala de letra. */
+.bienvenida-saludo{font-family:var(--display);font-weight:700;font-size:clamp(30px,9vw,44px);
+  line-height:1.1;letter-spacing:-.02em;text-align:center;
+  text-shadow:2px 2px 4px var(--sombra-o),-2px -2px 4px var(--sombra-c)}
+.bienvenida-linea{font-family:var(--display);font-weight:500;font-size:17px;color:var(--dim);min-height:1.4em}
+@keyframes aparecer{from{opacity:0;transform:scale(.97)}}
+
+/* ---------- capa de ajustes ---------- */
+
+.capa{position:fixed;inset:0;z-index:20}
+.velo{position:absolute;inset:0;background:var(--velo);animation:velo .3s ease-out}
+.panel{position:absolute;top:0;left:0;right:0;min-height:52vh;max-height:88vh;overflow-y:auto;
+  background:var(--panel);color:var(--panel-fg);border-radius:0 0 40px 40px;
+  padding:calc(22px + env(safe-area-inset-top)) 22px 34px;animation:bajar .35s cubic-bezier(.2,.9,.2,1)}
+.panel > *{max-width:620px;margin-left:auto;margin-right:auto}
+.panel-cabecera{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+.panel h2{font-family:var(--display);font-weight:700;font-size:26px}
+.panel h3{font-family:var(--display);font-weight:500;font-size:13px;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--panel-dim);margin-top:24px;margin-bottom:10px}
+.panel dl{display:grid;grid-template-columns:1fr auto;gap:8px 16px;font-size:14.5px}
+.panel dt{color:var(--panel-dim)}
+.panel dd{font-family:var(--display);font-weight:500;text-align:right}
+.panel .icono{background:var(--panel);color:var(--panel-fg);box-shadow:var(--elevado-osc)}
+.panel .icono:active{box-shadow:var(--hundido-osc)}
+.panel :focus-visible{outline-color:var(--panel-acento)}
+.panel-nota{font-size:14px;color:var(--panel-dim)}
+.panel-ok{font-family:var(--display);font-weight:500;font-size:15px;color:var(--panel-ok)}
+.panel-alerta{font-size:14px;line-height:1.5;color:var(--panel-aviso);font-weight:600;margin-bottom:12px}
+.pasadas{list-style:none;display:grid;gap:12px;font-size:14px;line-height:1.45}
+.pasadas li{display:flex;flex-direction:column;gap:2px}
+.pasada-hora{font-family:var(--display);font-weight:500}
+.pasadas .bien{color:var(--panel-ok)}
+.pasadas .mal{color:var(--panel-aviso);font-weight:600}
+body:has(.capa),body:has(.bienvenida){overflow:hidden}
+/* Rueda: panel centrado sobre la app atenuada. Casi a ancho completo para que
+   el circulo crezca antes de tener que apretar los nombres. */
+.capa.centrada{display:flex;align-items:center;justify-content:center;padding:8px;overflow-y:auto}
+.panel-filtro{position:relative;display:flex;flex-direction:column;align-items:center;gap:22px;
+  max-width:100%;margin:auto;padding:22px 6px 26px;border-radius:36px;background:var(--bg);
+  box-shadow:var(--elevado);animation:aparecer .25s ease-out}
+.panel-filtro h2{font-family:var(--display);font-weight:700;font-size:20px}
+.rueda{display:block;overflow:visible}
+.quesito{cursor:pointer;outline:none;-webkit-tap-highlight-color:transparent}
+.quesito-forma{fill:var(--bg);transition:filter .2s}
+.quesito:focus-visible .quesito-forma{stroke:var(--acento);stroke-width:3}
+.quesito-nombre{font-family:var(--sans);font-weight:600;font-size:13.5px;fill:var(--fg);pointer-events:none}
+.quesito[aria-checked="true"] .quesito-nombre{fill:var(--acento)}
+.filtro-acciones{display:flex;gap:16px;padding:0 10px}
+.aceptar{color:var(--acento)}
+
+@keyframes bajar{from{transform:translateY(-100%)}}
+@keyframes velo{from{opacity:0}}
+
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}

@@ -1,0 +1,51 @@
+{
+  "comodin": "mercado",
+  "notas_prompt": [
+    "Ante la duda entre plataformas y medicion, si el cambio lo anuncia una plataforma, elige plataformas.",
+    "Ante la duda entre programatica y mercado, si trata de tecnologia, elige programatica."
+  ],
+  "categorias": [
+    {
+      "id": "plataformas",
+      "nombre": "Plataformas",
+      "descripcion": "cambios en Google Ads, Meta, TikTok, Microsoft Ads, LinkedIn: formatos, pujas, politicas, funciones nuevas",
+      "cuota": 4,
+      "color": "#35487F"
+    },
+    {
+      "id": "medicion",
+      "nombre": "Medición",
+      "descripcion": "atribucion, analitica, privacidad, cookies, consentimiento, modelado de conversiones",
+      "cuota": 2,
+      "color": "#2F6054"
+    },
+    {
+      "id": "retail",
+      "nombre": "Retail media",
+      "descripcion": "Amazon Ads y retail media en general",
+      "cuota": 2,
+      "color": "#8A4A1C"
+    },
+    {
+      "id": "programatica",
+      "nombre": "Programática",
+      "descripcion": "adtech, DSP/SSP, CTV, compra programatica",
+      "cuota": 2,
+      "color": "#4A3A6B"
+    },
+    {
+      "id": "creatividad",
+      "nombre": "Creatividad",
+      "descripcion": "formatos creativos, testing de anuncios, creatividad con IA",
+      "cuota": 1,
+      "color": "#6B5A2A"
+    },
+    {
+      "id": "mercado",
+      "nombre": "Mercado",
+      "descripcion": "inversion publicitaria, movimientos de empresas, agencias, regulacion general",
+      "cuota": 1,
+      "color": "#5C564D"
+    }
+  ]
+}
