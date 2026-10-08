@@ -1,14 +1,139 @@
 {
- "generado_en": "2026-10-08T11:15:00.042910+00:00",
+ "generado_en": "2026-10-08T17:40:26.953879+00:00",
  "modo": "normal",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
-  "Jon Loomer (Meta Ads): XML invalido",
   "Optmyzr Blog: HTTPError"
  ],
- "candidatos": 45,
- "destacados": 9,
+ "candidatos": 54,
+ "destacados": 13,
  "items": [
+  {
+   "id": "0b8fa75af921f6ee",
+   "url": "https://www.seroundtable.com/google-ads-conversion-lift-measurement-self-service-42250.html",
+   "titulo": "Google Ads Self-Services Conversion Lift Measurement",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-08T11:11:00+00:00",
+   "resumen": "Google Ads now lets advertisers set up Conversion Lift measurement themselves. Google updated its help documentation to say that you no longer need a Google Ads representative to set up Conversion Lift measurement; you just need at least 1,000 observed conversions and a $5,000 budget.",
+   "categoria": "plataformas",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/google-ads-conversion-lift-doc-wtSNzrew.png",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "306bd75b66cef899",
+   "url": "https://www.reddit.com/r/PPC/comments/1x0otv1/google_ads_passkey_approval_loop_every_approval/",
+   "titulo": "Google Ads passkey approval loop — every approval attempt triggers another 48h security lock",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-08T11:48:31+00:00",
+   "resumen": "I’m stuck in a bizarre Google Ads passkey loop and I’m wondering if anyone has actually managed to get out of it. Google Ads now requires a passkey for sensitive actions on my account. I originally had working/trusted passkeys, but I removed and recreated them while troubleshooting a desktop authentication issue. Since then, this happens: I create new passkeys successfully. Google prevents me from managing/approving them because of a security cooldown. After roughly 48 hours, I can access the pa",
+   "categoria": "plataformas",
+   "posicion": 4,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "eaae27753bdbfb9f",
+   "url": "https://www.adexchanger.com/ctv-roundup/how-does-agentic-buying-work-in-ctv/",
+   "titulo": "How Does Agentic Buying Work In CTV?",
+   "fuente": "AdExchanger",
+   "publicado": "2026-10-08T13:00:25+00:00",
+   "resumen": "Given how much agentic AI pervades nearly every conversation these days, it’s easy to overlook how nascent the technology still is, particularly when it comes to buying ads on connected TV. The post How Does Agentic Buying Work In CTV? appeared first on AdExchanger .",
+   "categoria": "programatica",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://www.adexchanger.com/wp-content/uploads/2026/01/agentic-programmatic-comic-featured-1.jpeg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "699d8467b3b7c276",
+   "url": "https://www.seroundtable.com/google-merchant-center-disapprove-products-chnage-fast-42251.html",
+   "titulo": "Google Merchant Center May Disapprove Products That Change Frequently",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-08T11:31:00+00:00",
+   "resumen": "Google updated its help document in Merchant Center to say that if a product changes more than once per day, it may be \"disapproved instead of updated if we detect a mismatch.\"",
+   "categoria": "retail",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/google-merchant-center-auto-disapproval-kTvgp97w.png",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "0d5e21bf4ca5eef2",
+   "url": "https://www.seroundtable.com/google-ugc-fresh-data-program-42265.html",
+   "titulo": "Google Reveals The UGC Fresh Data Program",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-08T15:15:00+00:00",
+   "resumen": "Google has announced its UGC Fresh Data Program, which Google says \"is an initiative designed to help platforms display fresh, high quality, and authentic user-generated content (UGC) across various features on Search.\" Basically, it seems like an API UCG sites like Reddit can use to push content to Google Search faster.",
+   "categoria": "mercado",
+   "posicion": 1,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "ff3239085d9e635a",
+   "url": "https://www.seroundtable.com/google-search-manual-action-spike-42258.html",
+   "titulo": "Google Search Issuing More Google Manual Action Penalties?",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-08T11:51:00+00:00",
+   "resumen": "Google may be issuing more manual action penalties over the past few weeks than it has over the weeks before that. The increase in manual actions seems to have started several weeks ago, but more so recently, according to some SEOs.",
+   "categoria": "mercado",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "d259ed525b7afd37",
+   "url": "https://www.seroundtable.com/recap-10-08-2026-42260.html",
+   "titulo": "Daily Search Forum Recap: October 8, 2026",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-08T14:00:00+00:00",
+   "resumen": "Here is a recap of what happened in the search forums today...",
+   "categoria": "mercado",
+   "posicion": 3,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "60a5037372683dc5",
+   "url": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
+   "titulo": "Google Ads AI Max Columns: Brand Inclusion, Commission, Locations Of Interest & Optimized Targeting",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-08T11:21:00+00:00",
+   "resumen": "Google Ads is adding new AI Max related columns to the Google Ads reporting console. The columns include brand inclusions, locations of interest, commission and optimized targeting.",
+   "categoria": "plataformas",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "9330cad8486098a3",
+   "url": "https://www.seroundtable.com/google-local-service-ads-how-leads-work-42259.html",
+   "titulo": "Google Local Service Ads Expands How Leads Work Information",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-08T11:41:00+00:00",
+   "resumen": "Google has updated the how leads work help documentation within Local Service Ads with a lot more detail. The changes are meaningful, including what counts as a billable phone lead and how Google handles lead quality/credits.",
+   "categoria": "plataformas",
+   "posicion": 3,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
   {
    "id": "34c1cbd07ed2724d",
    "url": "https://www.reddit.com/r/PPC/comments/1wzzars/meta_dpa_border_help_please/",
@@ -640,7 +765,7 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-10-08T11:15:00.042910+00:00",
+ "comprobado_en": "2026-10-08T17:40:26.953879+00:00",
  "pasadas": [
   {
    "hora": "2026-10-08T11:15:00.042910+00:00",
@@ -648,6 +773,14 @@
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
     "Jon Loomer (Meta Ads): XML invalido",
+    "Optmyzr Blog: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-10-08T17:40:26.953879+00:00",
+   "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
     "Optmyzr Blog: HTTPError"
    ]
   }
