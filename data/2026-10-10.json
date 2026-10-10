@@ -1,13 +1,41 @@
 {
- "generado_en": "2026-10-10T10:30:57.488023+00:00",
+ "generado_en": "2026-10-10T16:03:38.250394+00:00",
  "modo": "normal",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
   "Optmyzr Blog: HTTPError"
  ],
- "candidatos": 52,
- "destacados": 4,
+ "candidatos": 54,
+ "destacados": 6,
  "items": [
+  {
+   "id": "b786045280217d99",
+   "url": "https://www.reddit.com/r/PPC/comments/1x2glnt/5_thing_ive_learned_in_the_last_year_from/",
+   "titulo": "5 thing I’ve learned in the last year from consulting with over 100 companies on their ads",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-10T14:25:30+00:00",
+   "resumen": "Conversion tracking might be over rated. I've been paid thousands to fix it, so it's a good business but it's a small lever. \"Media Buying Tricks\" are way less important than positioning, offer & copywriting. Most businesses are hiring marketers to figure out their marketing for them, not to hand off the labor. These clients are difficult to work with. It turns marketers into educators which then opens us up to clients choosing to do things based on client vibes. Meta is less evil than google. g",
+   "categoria": "creatividad",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "c130bc8077cdadd2",
+   "url": "https://ppc.land/turkey-bans-social-media-accounts-for-under-15s-from-november-1/",
+   "titulo": "Turkey bans social media accounts for under-15s from November 1",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-10T14:52:04+00:00",
+   "resumen": "Teens aged 15 to 17 lose profiling-based ads, feeds and live streams; existing users face e-Government age tokens by March 31, 2027. What do platforms change?",
+   "categoria": "mercado",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/10/turkey-under-15-social-media-ban-age-token-gate-teen-carousel-frozen-horses.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
   {
    "id": "79072c7268408268",
    "url": "https://ppc.land/google-forces-sites-mixing-gtm-snippets-and-gtag-config-onto-gtag-js/",
@@ -737,10 +765,18 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-10-10T10:30:57.488023+00:00",
+ "comprobado_en": "2026-10-10T16:03:38.250394+00:00",
  "pasadas": [
   {
    "hora": "2026-10-10T10:30:57.488023+00:00",
+   "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
+    "Optmyzr Blog: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-10-10T16:03:38.250394+00:00",
    "modo": "normal",
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
