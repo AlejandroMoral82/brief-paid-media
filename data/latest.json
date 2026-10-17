@@ -1,13 +1,27 @@
 {
- "generado_en": "2026-10-17T08:27:08.603035+00:00",
+ "generado_en": "2026-10-17T14:00:04.881688+00:00",
  "modo": "normal",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
   "Optmyzr Blog: HTTPError"
  ],
- "candidatos": 49,
- "destacados": 9,
+ "candidatos": 50,
+ "destacados": 10,
  "items": [
+  {
+   "id": "587c6f113bb7004b",
+   "url": "https://www.reddit.com/r/PPC/comments/1x7rn4v/google_ads_blocked_me_from_creating_an_account/",
+   "titulo": "Google ads blocked me from creating an account after canceling initial setup. Anyone ever successfully resolved this issue?",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-16T20:50:49+00:00",
+   "resumen": "I’ve posted this in a couple places. Sorry if you end up here twice. I’m a Canadian small business owner trying to set up google ads for the first time and I’ve hit a frustrating roadblock. On oct 15 I started creating a google ads account and during the set up google kept directing me toward a simplified campaign set up rather than allowing me to configure the standard search campaign I wanted. I cancelled the account before launching any campaigns or spending by any money. Right after the orig",
+   "categoria": "plataformas",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
   {
    "id": "0e5e1351422ddefe",
    "url": "https://www.reddit.com/r/PPC/comments/1x7arr6/should_i_trust_high_ctr_when_my_conversion_rate/",
@@ -695,10 +709,18 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-10-17T08:27:08.603035+00:00",
+ "comprobado_en": "2026-10-17T14:00:04.881688+00:00",
  "pasadas": [
   {
    "hora": "2026-10-17T08:27:08.603035+00:00",
+   "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
+    "Optmyzr Blog: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-10-17T14:00:04.881688+00:00",
    "modo": "normal",
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
