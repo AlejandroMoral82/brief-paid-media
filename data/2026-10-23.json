@@ -1,13 +1,181 @@
 {
- "generado_en": "2026-10-23T09:13:53.973493+00:00",
- "modo": "normal",
+ "generado_en": "2026-10-23T15:33:55.516670+00:00",
+ "modo": "degradado",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
   "Optmyzr Blog: HTTPError"
  ],
- "candidatos": 39,
- "destacados": 8,
+ "candidatos": 51,
+ "destacados": 20,
  "items": [
+  {
+   "id": "6cc9ad0797108f48",
+   "url": "https://www.reddit.com/r/PPC/comments/1xdemad/amazon_ads_claude_as_the_copilot/",
+   "titulo": "Amazon Ads: Claude as the Copilot",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-23T13:50:54+00:00",
+   "resumen": "Just tested using Claude as my Amazon Ada Copilot. Good results so far, having uncovered around 2k in wasted ad spend and almost 200€ in potential revenue uplift👍🏼 what is it showing for you? submitted by /u/itzhnrk1409 [link] [comments]",
+   "categoria": "mercado",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://preview.redd.it/l8vi4bh628xh1.jpeg?width=640&crop=smart&auto=webp&s=a731a4f6e6def27dffc7515f2f3adb00ae6b9fb2",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "79a748625119bde5",
+   "url": "https://www.reddit.com/r/PPC/comments/1xdd6kp/small_business_hit_by_a_bot_call_attack_421/",
+   "titulo": "Small business hit by a bot call attack 421 silent spoofed calls in one day. Anyone been through this? I got billed for 200 of those",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-23T12:52:21+00:00",
+   "resumen": "I run a small business in Florida on LSA . Yesterday we got flooded: 421 silent calls in one afternoon, spoofed caller IDs mostly from Arizona and Texas, sometimes more than one per second. The calls even got past the IVR gate we set up mid attack. LSA logged every one as a lead. Google support told us to pause the account, so I did. All 421 leads currently show “In review.” I have a support case open, and i reported it to our phone provider as a TDoS incident. Has anyone delt with something lik",
+   "categoria": "mercado",
+   "posicion": 2,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "30c54cb9509057ed",
+   "url": "https://www.seroundtable.com/video-10-23-2026-42362.html",
+   "titulo": "Search News Buzz Video Recap: Google Search Chatter, PHP Exploit, AI SEO Worthwhile, Google Local, Google Ads, ChatGPT Ads & More",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-23T12:01:00+00:00",
+   "resumen": "This week, yes, we saw even more Google search ranking volatility chatter but still no official core update. Google shared how to handle Google Search if you need to take down your site for the PHP exploit fix. There are three new...",
+   "categoria": "mercado",
+   "posicion": 3,
+   "destacado": true,
+   "imagen": "https://img.youtube.com/vi/oJmgl_x_Wfc/maxresdefault.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "aeac72491c74724c",
+   "url": "https://www.seroundtable.com/google-ai-overview-citation-ai-summaries-42361.html",
+   "titulo": "Google AI Overview Citation Cards With AI-Generated Summary Snippets",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-23T11:51:00+00:00",
+   "resumen": "Google seems to be testing or rolling out AI-generated summaries within AI Overviews citation cards. So the cards on the right (or bottom) of the AI Overviews within Google Search can now show AI summary snippets/descriptions.",
+   "categoria": "mercado",
+   "posicion": 4,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/google-ai-overview-snippet-summaries2-cvi6pcZJ.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "9c10017ae656db00",
+   "url": "https://www.seroundtable.com/google-jpeg-xl-42352.html",
+   "titulo": "JPEG XL Image Format Not Supported By Google Images & Google Discover",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-23T11:41:00+00:00",
+   "resumen": "John Mueller at Google recently confirmed that Google Image Search and Google Discover don't yet support the JPEG XL image format. He said this on Bluesky recently, \"FWIW if you're hoping to get images shown in Google Images & as previews in Discover, etc - JPEG-XL is currently not supported.\"",
+   "categoria": "mercado",
+   "posicion": 5,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/sharp-google-logo-uH3zOWAu.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "0712664d4752c463",
+   "url": "https://www.seroundtable.com/google-business-profiles-new-performance-reports-42367.html",
+   "titulo": "Google Business Profiles Tests New Advanced Performance Reports",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-23T11:31:00+00:00",
+   "resumen": "Google is testing a completely revamped performance report section within Google Business Profiles that includes metrics on engagement, reviews, search trends, audience and more. It also includes top recommendations and a more broken-out reviews detail view.",
+   "categoria": "mercado",
+   "posicion": 6,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/google-business-profiles-performance-report-new-overview-K1XWcLjt.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "4cb2420aed7932ea",
+   "url": "https://www.reddit.com/r/PPC/comments/1xdbfw9/how_much_campaign_decisionmaking_are_you_actually/",
+   "titulo": "How much campaign decision-making are you actually trusting AI with?",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-23T11:29:16+00:00",
+   "resumen": "Do you allow budgets change within limits? Pause ads? Launch anything? Or does every change still need approval from human? What are additional metrics needed to be added to the basic CPA, CAC, etc for additional control? Do you have kill-switch? Curious about the rules you’ve settled on, especially if something went wrong and you can share. submitted by /u/Evening_Hawk_7470 [link] [comments]",
+   "categoria": "mercado",
+   "posicion": 7,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "8d2e8e2824d61e69",
+   "url": "https://www.seroundtable.com/google-universal-cart-in-search-is-live-42349.html",
+   "titulo": "Google Universal Cart In Search Is Live, Yep",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-23T11:21:00+00:00",
+   "resumen": "Last week, we reported that Google was launching its Universal Cart in the United States after demoing it at Google I/O in May. And yes, a few days after Google announced it, it was rolling out. I think most people started to see it show up in Google Search and Gemini starting on Friday and over the weekend.",
+   "categoria": "mercado",
+   "posicion": 8,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/google-universal-cart-add-to-cart-O1qMT93e.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "228e5d0e0c5c0196",
+   "url": "https://www.seroundtable.com/google-adsense-videos-policy-update-42366.html",
+   "titulo": "Google AdSense Videos Placement & Sticky Requirements Removed",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-23T11:15:00+00:00",
+   "resumen": "Google updated its AdSense Video inventory restrictions policy to remove the placement requirement and the scroll-to-sticky requirements yesterday, October 22nd. Google removed this line from the policy, \"For In-stream or Accompanying Content placements that transition to a sticky placement, the video player must start in the main content and only transition as a user scrolls the video player off the page.\"",
+   "categoria": "mercado",
+   "posicion": 9,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/adsense-video-policy-updates-infographic-H5V5yuyF.png",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "c654f0f969109100",
+   "url": "https://www.seroundtable.com/google-ads-tests-scrolling-marquee-ratings-reviews-and-underlines-on-sponsored-results-42364.html",
+   "titulo": "Google Ads Tests Scrolling Marquee Style For Ratings/Reviews & Underlines",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-23T11:11:00+00:00",
+   "resumen": "Google Ads is testing a scrolling marquee on some of the sponsored results within Google Search. Google will load in the reviews/ratings, number of visits and a visit site link in one of these tests. In the other test, Google underlines the domain name in the ad snippet.",
+   "categoria": "mercado",
+   "posicion": 10,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/google-ad-sponsored-result-scroll-animation-reviews-qXLgo2Y1.gif",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "e4daac03bf3e0184",
+   "url": "https://www.seroundtable.com/google-ads-sourced-videos-42365.html",
+   "titulo": "Google Ads Asset Optimization Sourced Videos On/Off Toggle",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-10-23T11:05:00+00:00",
+   "resumen": "Google Ads has added a new \"Sourced videos\" on/off toggle setting to the asset optimization section. This uses Google AI to identify relevant videos from your approved sources and add them to your campaign automatically.",
+   "categoria": "mercado",
+   "posicion": 11,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/google-ads-sourced-videos-toggle-n1Mv05cA.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "dd478445d958a3ba",
+   "url": "https://www.reddit.com/r/PPC/comments/1xd7pd9/anyone_else_seeing_fb_lead_forms_cause_problems/",
+   "titulo": "Anyone else seeing FB lead forms cause problems with CRM email deliverability?",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-23T07:46:59+00:00",
+   "resumen": "Been thinking about paid social lead forms and database workflows lately. The leads look cheap at first. But a lot of people use old personal emails on social media, and some of those inboxes are barely active anymore. Then those leads go straight into marketing automation nurture sequences. If enough emails bounce or get ignored, you're creating a deliverability problem for your actual sales emails too. Adding fields to the form doesn't really fix the data quality issue tbh. I'm trying to fix t",
+   "categoria": "mercado",
+   "posicion": 12,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
   {
    "id": "144a624b80295b02",
    "url": "https://www.reddit.com/r/PPC/comments/1xco7nr/how_often_do_you_refresh_ad_creative_before/",
@@ -555,11 +723,19 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-10-23T09:13:53.973493+00:00",
+ "comprobado_en": "2026-10-23T15:33:55.516670+00:00",
  "pasadas": [
   {
    "hora": "2026-10-23T09:13:53.973493+00:00",
    "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
+    "Optmyzr Blog: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-10-23T15:33:55.516670+00:00",
+   "modo": "degradado",
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
     "Optmyzr Blog: HTTPError"
