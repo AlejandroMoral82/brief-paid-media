@@ -1,13 +1,139 @@
 {
- "generado_en": "2026-10-24T08:47:19.843917+00:00",
+ "generado_en": "2026-10-24T14:11:20.717823+00:00",
  "modo": "normal",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
   "Optmyzr Blog: HTTPError"
  ],
- "candidatos": 33,
- "destacados": 6,
+ "candidatos": 42,
+ "destacados": 10,
  "items": [
+  {
+   "id": "a3aea2d13db8e6ba",
+   "url": "https://www.reddit.com/r/PPC/comments/1xe5zk8/changing_live_conversions_to_secondary_conversions/",
+   "titulo": "Changing live conversions to Secondary Conversions?",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-24T11:14:16+00:00",
+   "resumen": "I’ve just started a new roll where the google ads account has essentially been set up and then abandoned, spending a lot for poor returns. I’m trying to get everything in shape before making any big changes but noticed that the ads account had purchases, add to cart and begin check out all as conversions. I’ve never seen anything like this before so for every purchase we’re at least triple reporting. would the safest thing to do just change the begin checkouts and add to carts to secondary conve",
+   "categoria": "medicion",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "c631f801cc21eb69",
+   "url": "https://ppc.land/unitrends-ad-agency-revenue-drops-43-ahead-of-25m-nasdaq-ipo/",
+   "titulo": "Unitrend's ad agency revenue drops 43% ahead of $25m Nasdaq IPO",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-24T13:19:33+00:00",
+   "resumen": "Advertising fell to 3.46% of 2025 sales as co-produced dramas took 48.2%. Cash stood at $933,665, and the IPO still awaits a renewed China securities filing.",
+   "categoria": "mercado",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/10/unitrend-nasdaq-ipo-ad-revenue-drop-tv-drama-film-reel-shrinking-billboard.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "053ccf4d1df1fc93",
+   "url": "https://www.reddit.com/r/PPC/comments/1xe8onv/004_per_mobile_game_preregistration_on_google_ads/",
+   "titulo": "€0.04 per mobile game pre-registration on Google Ads. Is this actually good, or am I missing something?",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-24T13:28:26+00:00",
+   "resumen": "Hey everyone! I’m an indie developer getting ready to launch my first mobile PvP tactics game on November 1st. I’ve been experimenting with Google Ads pre-registration campaigns on a really small budget (€5/day per campaign), and the results have honestly surprised me. Today I’m seeing a cost per pre-registration of around €0.04, which seems incredibly low compared to most mobile game acquisition numbers I’ve seen. I’m attaching screenshots showing the actual spend, impressions, clicks, conversi",
+   "categoria": "plataformas",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://preview.redd.it/sxcm3s1y2fxh1.png?width=140&height=49&auto=webp&s=222be209850c3bcb4f142fd4e97d34135fa28400",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "a5fa8e734515b9b3",
+   "url": "https://ppc.land/bidease-hires-ex-moloco-revenue-leader-after-two-years-of-200-growth/",
+   "titulo": "Bidease hires ex-Moloco revenue leader after two years of 200%+ growth",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-24T13:13:24+00:00",
+   "resumen": "650 million daily ad impressions, Bidease says, yet its own site still lists 170 million. Dock Kim now runs sales for mobile app buyers across three regions.",
+   "categoria": "programatica",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/10/bidease-moloco-dock-kim-hire-650m-impressions-oversized-shadow.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "1071315ad8afda65",
+   "url": "https://www.reddit.com/r/PPC/comments/1xe5i84/we_moved_a_trial_form_into_the_header_submissions/",
+   "titulo": "We moved a trial form into the header. Submissions went from 4.60% to 5.87%.",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-24T10:47:00+00:00",
+   "resumen": "We ran this test for an enterprise security SaaS client. The trial form sat below the fold, with other calls to action competing for attention. We moved the form into the header and reduced the competing CTAs. The product information stayed. The test ran for 20 days: Original: 294 submissions from 6,398 users, or 4.60%. Variation: 367 submissions from 6,250 users, or 5.87%. That's a 27.8% relative increase in form submissions. We changed both things in the same variation, so I can't separate the",
+   "categoria": "creatividad",
+   "posicion": 1,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "00943a0994c3529a",
+   "url": "https://ppc.land/sandberg-said-i-dont-know-to-6-facebook-app-vetting-gaps-video-shows/",
+   "titulo": "Sandberg said 'I don't know' to 6 Facebook app-vetting gaps, video shows",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-24T09:25:36+00:00",
+   "resumen": "Gibson Dunn's review later listed the same gaps. The New Mexico jury that watched her on September 14 found 26 Facebook statements deceptive, including her own.",
+   "categoria": "mercado",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/10/facebook-sandberg-deposition-app-developer-vetting-six-empty-guard-booths.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "b299afa4164b3cf2",
+   "url": "https://ppc.land/metas-cross-check-list-grew-59-fold-to-799-000-us-accounts-by-2025/",
+   "titulo": "Meta's cross-check list grew 59-fold to 799,000 US accounts by 2025",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-24T09:22:16+00:00",
+   "resumen": "Special review covered 13,500 US accounts in 2020; Zuckerberg said he had not seen the list. Did Meta adopt its Oversight Board's 2022 fixes? He was not sure.",
+   "categoria": "plataformas",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/10/meta-zuckerberg-crosscheck-list-799000-accounts-giant-rolodex.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "d498b351aee7f484",
+   "url": "https://ppc.land/fubo-sports-network-gains-nfl-draft-show-for-its-free-11-a-m-slot/",
+   "titulo": "Fubo Sports Network gains NFL draft show for its free 11 a.m. slot",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-24T13:11:40+00:00",
+   "resumen": "NFL Stock Exchange streams Wednesdays and Saturdays at 11 a.m. ET on 12 free platforms. Hoops HQ returns too. What changes in Fubo's ad-funded sports schedule?",
+   "categoria": "programatica",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/10/fubo-sports-network-nfl-draft-show-11am-slot-twelve-tv-clock.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "de0e7232bb132438",
+   "url": "https://ppc.land/appointment-viewing/",
+   "titulo": "Appointment viewing",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-24T13:24:30+00:00",
+   "resumen": "Appointment viewing is watching a programme when it first airs because the audience planned to, the scheduled habit that live sport and weekly drops now sell.",
+   "categoria": "programatica",
+   "posicion": 3,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/10/appointment-viewing-super-bowl-live-tv-sunburst-clock-stadium-of-armchairs.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
   {
    "id": "9c10017ae656db00",
    "url": "https://www.seroundtable.com/google-jpeg-xl-42352.html",
@@ -471,10 +597,18 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-10-24T08:47:19.843917+00:00",
+ "comprobado_en": "2026-10-24T14:11:20.717823+00:00",
  "pasadas": [
   {
    "hora": "2026-10-24T08:47:19.843917+00:00",
+   "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
+    "Optmyzr Blog: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-10-24T14:11:20.717823+00:00",
    "modo": "normal",
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
