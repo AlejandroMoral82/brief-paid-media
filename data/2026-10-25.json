@@ -1,13 +1,139 @@
 {
- "generado_en": "2026-10-25T09:03:17.401580+00:00",
- "modo": "normal",
+ "generado_en": "2026-10-25T14:42:33.612687+00:00",
+ "modo": "degradado",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
   "Optmyzr Blog: HTTPError"
  ],
- "candidatos": 38,
- "destacados": 4,
+ "candidatos": 47,
+ "destacados": 13,
  "items": [
+  {
+   "id": "6cb166c015d65e41",
+   "url": "https://ppc.land/googles-help-page-trails-its-retention-goal-rollout-to-search-and-shopping/",
+   "titulo": "Google's help page trails its retention goal rollout to Search and Shopping",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-25T13:50:04+00:00",
+   "resumen": "Re-engagement still shows as Performance Max only in Google Ads documentation, three days after Google's holiday post. Which campaign types can use each mode?",
+   "categoria": "mercado",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/10/google-ads-retention-goals-help-page-lag-locomotive-handcar.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "4ac4da85f8df73c4",
+   "url": "https://ppc.land/google-ads-ai-tool-copies-search-campaigns-into-10-new-languages/",
+   "titulo": "Google Ads AI tool copies Search campaigns into 10 new languages",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-25T13:46:58+00:00",
+   "resumen": "Budgets copy across with no currency conversion, and only English (US) Search campaigns qualify. Performance Max support was due in September. Has it arrived?",
+   "categoria": "mercado",
+   "posicion": 2,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/10/google-ads-ai-campaign-localization-10-languages-typewriter-speech-bubbles.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "9fbae9df22dbe9ab",
+   "url": "https://ppc.land/google-ads-search-terms-report-adds-4-source-columns-for-ai-max-traffic/",
+   "titulo": "Google Ads search terms report adds 4 source columns for AI Max traffic",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-25T13:45:19+00:00",
+   "resumen": "Match, landing page, headline and description sources now sit beside each search term for AI Max campaigns. Google's help page does not yet list the columns.",
+   "categoria": "mercado",
+   "posicion": 3,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/10/google-ads-ai-max-search-terms-source-columns-ledger-stamps.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "766fc5b8d745c4c3",
+   "url": "https://ppc.land/google-ai-writes-positive-only-review-summaries-into-search-ads-in-4-markets/",
+   "titulo": "Google AI writes positive-only review summaries into Search ads in 4 markets",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-25T13:42:52+00:00",
+   "resumen": "Advertisers cannot edit the text, which Google shows only when it predicts better ad performance. The undated help page leaves out opt-out and sourcing details.",
+   "categoria": "mercado",
+   "posicion": 4,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/10/google-ai-review-summaries-search-ads-positive-only-billboard-hand.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "d3fb569ef171c219",
+   "url": "https://ppc.land/google-can-add-up-to-10-crawled-videos-to-pmax-asset-groups-by-default/",
+   "titulo": "Google can add up to 10 crawled videos to PMax asset groups by default",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-25T13:41:17+00:00",
+   "resumen": "Clips from social platforms, landing pages and linked YouTube channels now feed Performance Max without opt-in. Which live campaigns were switched on, and when?",
+   "categoria": "mercado",
+   "posicion": 5,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/10/google-pmax-sourced-videos-default-ten-crawled-reels-carousel-projector.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "4c0d8511d75aede5",
+   "url": "https://ppc.land/google-lets-shopping-and-pmax-campaigns-lower-roas-targets-by-up-to-30/",
+   "titulo": "Google lets Shopping and PMax campaigns lower ROAS targets by up to 30%",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-25T13:39:52+00:00",
+   "resumen": "Tolerance runs from 5% to 30% for Shopping and PMax advertisers, but portfolio bid strategies switch the feature off. How far can results drift from target?",
+   "categoria": "mercado",
+   "posicion": 6,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/10/google-smart-bidding-exploration-shopping-pmax-roas-tolerance-fishing-reel.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "27161c331b1a7f69",
+   "url": "https://ppc.land/googles-pmax-opt-out-for-display-and-partners-still-in-alpha-after-5-months/",
+   "titulo": "Google's PMax opt-out for Display and partners still in alpha after 5 months",
+   "fuente": "PPC Land",
+   "publicado": "2026-10-25T13:38:24+00:00",
+   "resumen": "Performance Max advertisers saw Search partners and Display Network checkboxes again on October 19, with no Google documentation. How do they fit the 0% caps?",
+   "categoria": "mercado",
+   "posicion": 7,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/10/google-pmax-partners-display-opt-out-alpha-locked-switch-case.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "ffc88d505bce81a1",
+   "url": "https://www.reddit.com/r/PPC/comments/1xeyr6g/new_creative_testing_in_a_new_ad_set_versus/",
+   "titulo": "New Creative Testing in a New Ad set Versus Existing Ad Set",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-25T10:18:57+00:00",
+   "resumen": "Hello, I am facing a problem while making a decision. I am running a lead gen campaign on meta. I know creative fatigue has creeped in I made this ad set on 2nd Sept and it has generated leads. Client has recent feedback the lead quality and lead flow has decreased. What shall I do? Put new ads in an existing ad set? Lead flow has hampered I have noticed. My instinct says, since I am testing new creatives and angles I should do it in a new ad set. That also leads to my next question. Should I du",
+   "categoria": "mercado",
+   "posicion": 8,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "a84b0bf3db0d2e3e",
+   "url": "https://www.reddit.com/r/PPC/comments/1xeya52/asset_report_shows_far_less_data_than_campaign/",
+   "titulo": "asset report shows far less data than campaign report. Why?",
+   "fuente": "r/PPC",
+   "publicado": "2026-10-25T09:51:23+00:00",
+   "resumen": "Hi everyone, I’m running a tROAS App campaign (Google Ads, Philippines, game app). I noticed a big mismatch between my campaign report and my asset details report, even though both use the same date range (1-25 Oct 2026). Campaign report: Impressions: 29,394 Clicks: 1,895 Conversions: 467 Cost: ₹955 Asset details report (sum of all assets): Impressions: 1,349 (~5%) Clicks: 245 (~13%) Conversions: 56 (~12%) Cost: ₹93 (~10%) So roughly 87-95% of the campaign’s data doesn’t show up in the asset rep",
+   "categoria": "mercado",
+   "posicion": 9,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
   {
    "id": "4800aa164d443e76",
    "url": "https://ppc.land/server-side-tracking-still-needs-consent-iubenda-tells-marketers/",
@@ -541,11 +667,19 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-10-25T09:03:17.401580+00:00",
+ "comprobado_en": "2026-10-25T14:42:33.612687+00:00",
  "pasadas": [
   {
    "hora": "2026-10-25T09:03:17.401580+00:00",
    "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
+    "Optmyzr Blog: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-10-25T14:42:33.612687+00:00",
+   "modo": "degradado",
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
     "Optmyzr Blog: HTTPError"
