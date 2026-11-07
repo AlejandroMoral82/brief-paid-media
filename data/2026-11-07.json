@@ -1,13 +1,111 @@
 {
- "generado_en": "2026-11-07T10:57:37.037395+00:00",
+ "generado_en": "2026-11-07T16:41:37.916936+00:00",
  "modo": "normal",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
   "Optmyzr Blog: HTTPError"
  ],
- "candidatos": 42,
- "destacados": 4,
+ "candidatos": 49,
+ "destacados": 7,
  "items": [
+  {
+   "id": "cccf18cce2a50baa",
+   "url": "https://www.reddit.com/r/PPC/comments/1xpztl2/crm_leads_with_no_source_do_you_capture_gclid_and/",
+   "titulo": "crm leads with no source: do you capture gclid and utm in hidden form fields?",
+   "fuente": "r/PPC",
+   "publicado": "2026-11-07T06:45:15+00:00",
+   "resumen": "a common setup problem: leads come into the crm, but nobody can tell which campaign or click they came from, so reports can't tie closed deals back to the ads. things people suggest: hidden fields on the form for gclid and utm_campaign, saved into the crm record with the lead. separate landing pages or call tracking numbers for different audiences, so a dropdown on one form isn't the only source of truth. making the values persist across pages, so they're not lost when someone clicks around befo",
+   "categoria": "medicion",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "c7a1440303578654",
+   "url": "https://ppc.land/tiktok-says-its-cpms-drop-after-november-across-a-two-month-q5-window/",
+   "titulo": "TikTok says its CPMs drop after November across a two-month Q5 window",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-07T13:16:49+00:00",
+   "resumen": "Smart+ app campaigns need daily budgets of 10 to 50 times the target bid, the playbook says. Its CPM charts carry no values, so what backs the claimed drop?",
+   "categoria": "plataformas",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/tiktok-q5-window-cpm-claim-snow-hill-sled-blank-surveyor-pole.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "3430f85cae0308c5",
+   "url": "https://ppc.land/amazons-alexa-for-shopping-takes-orders-by-text-invite-only-for-now/",
+   "titulo": "Amazon's Alexa for Shopping takes orders by text, invite-only for now",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-07T13:13:14+00:00",
+   "resumen": "Invited US customers get a phone contact named Alexa Shopping that reorders, tracks prices and buys, with millions more due within weeks. Where do ads fit in?",
+   "categoria": "retail",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/amazon-alexa-for-shopping-text-orders-invite-only-sponsored-products-speech-bubble-window-three-items.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "666a094b6a0ba449",
+   "url": "https://ppc.land/meta-forces-users-onto-meta-accounts-with-no-opt-out-offered/",
+   "titulo": "Meta forces users onto Meta Accounts with no opt-out offered",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-07T11:37:34+00:00",
+   "resumen": "Instagram, Facebook and Threads profiles linked in Accounts Center now share one login. The notice skips what this means for ad data and EU separation choices.",
+   "categoria": "plataformas",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/11/meta-accounts-center-meta-account-no-opt-out-ad-data-paper-doll-chain-shears-out-of-reach.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "5aab9e01fe1c4f0e",
+   "url": "https://ppc.land/google-bans-videostrong-over-backdoor-it-built-into-1-3-million-tv-boxes/",
+   "titulo": "Google bans Videostrong over backdoor it built into 1.3 million TV boxes",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-07T11:30:38+00:00",
+   "resumen": "Ad fraud and proxy crews paid for access; Google says pulling their domains cuts off 10 million more devices. How the boxes logged ad views nobody ever saw.",
+   "categoria": "programatica",
+   "posicion": 1,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/11/google-videostrong-xcpe-backdoor-1-3-million-tv-boxes-ad-fraud-lifted-set-top-box-scattering-silhouettes.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "71f4872275405722",
+   "url": "https://ppc.land/prime-video-puts-2-episode-melania-series-in-240-markets-on-november-20/",
+   "titulo": "Prime Video puts 2-episode Melania series in 240+ markets on November 20",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-07T13:04:32+00:00",
+   "resumen": "Reports in February said 3 episodes; Amazon now lists 2, with no runtime or price for viewers. How the series fits into Prime Video's ad-supported default.",
+   "categoria": "programatica",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/11/prime-video-melania-series-2-episodes-240-markets-november-20-ad-supported-default-three-slot-reel-case-empty-recess.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "5c215158a532e95f",
+   "url": "https://ppc.land/amazon-ads-70-of-21-600-adults-say-society-feels-more-divided-than-ever/",
+   "titulo": "Amazon Ads: 70% of 21,600 adults say society feels more divided than ever",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-07T13:20:18+00:00",
+   "resumen": "All five European markets trail the global score on 8 of 9 ad statements in a survey fielded Dec 2023-Feb 2024. How far does Amazon's culture pitch travel?",
+   "categoria": "retail",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/11/amazon-ads-from-ads-to-zeitgeist-culture-study-grandstand-card-stunt-broken-circle.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
   {
    "id": "c752a697e0a14910",
    "url": "https://www.reddit.com/r/PPC/comments/1xq1bvr/crm_says_paid_search_closed_almost_nothing_but/",
@@ -597,10 +695,18 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-11-07T10:57:37.037395+00:00",
+ "comprobado_en": "2026-11-07T16:41:37.916936+00:00",
  "pasadas": [
   {
    "hora": "2026-11-07T10:57:37.037395+00:00",
+   "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
+    "Optmyzr Blog: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-11-07T16:41:37.916936+00:00",
    "modo": "normal",
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
