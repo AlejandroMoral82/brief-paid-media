@@ -1,13 +1,153 @@
 {
- "generado_en": "2026-11-11T11:46:48.731704+00:00",
+ "generado_en": "2026-11-11T18:15:32.950170+00:00",
  "modo": "normal",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
   "Optmyzr Blog: HTTPError"
  ],
- "candidatos": 20,
- "destacados": 9,
+ "candidatos": 30,
+ "destacados": 13,
  "items": [
+  {
+   "id": "7577d3a861e2c384",
+   "url": "https://www.reddit.com/r/PPC/comments/1xtjchg/a_nonbrand_click_then_a_brand_search_that/",
+   "titulo": "A non-brand click, then a brand search that converts: how do you credit it before you cut the non-brand campaign?",
+   "fuente": "r/PPC",
+   "publicado": "2026-11-11T14:36:51+00:00",
+   "resumen": "someone clicks a non-brand ad, leaves, searches your brand a few days later and converts. the report credits brand search or organic, and the non-brand campaign looks like it did nothing. before cutting it, i'd check: how long the gap is between the first click and the conversion, and whether your conversion window is long enough to hold it. assisted conversions or the path report, to see how many conversions had a non-brand click earlier in the journey. what happens to branded search volume whe",
+   "categoria": "medicion",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "b4b16a6ce0b33026",
+   "url": "https://www.seroundtable.com/google-ads-customer-journey-insights-42510.html",
+   "titulo": "New Google Ads Overview Page: Customer Journey Insights",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-11T12:51:00+00:00",
+   "resumen": "Google Ads posted a new help document about customer journey insights. \"Customer Journey Insights is a new Google Ads Overview page reporting card pilot for eligible advertisers. It provides transparency into how your campaigns move users across conversion journey stages,\" Google wrote.",
+   "categoria": "plataformas",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/google-ads-customer-journey-insights-mo3agKkG.png",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "cf3ab5dddf474e16",
+   "url": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
+   "titulo": "Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson",
+   "fuente": "Search Engine Journal - PPC",
+   "publicado": "2026-11-11T13:00:37+00:00",
+   "resumen": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control. The post Google Ads Gives You More Channel Control – But Not As Much As You Think appeared first on Search Engine Journal .",
+   "categoria": "plataformas",
+   "posicion": 5,
+   "destacado": true,
+   "imagen": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/ads-control-374.png",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "8a9c14dd5d838157",
+   "url": "https://www.seroundtable.com/google-merchant-loyalty-program-eligibility-42495.html",
+   "titulo": "Google Merchant Loyalty Program New Eligibility Requirements",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-11T12:21:00+00:00",
+   "resumen": "Google has posted new eligibility requirements for the merchant loyalty program. As a reminder, Loyalty is an add-on feature in the Merchant Center for merchants with an existing loyalty program who want to showcase its benefits on Google.",
+   "categoria": "retail",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/google-merchant-loyalty-eligibility-j9hTPAo2.png",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "fe24ffc183fe5932",
+   "url": "https://www.seroundtable.com/recap-11-11-2026-42509.html",
+   "titulo": "Daily Search Forum Recap: November 11, 2026",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-11T15:00:00+00:00",
+   "resumen": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has begun the rollout of the November 2026 core update...",
+   "categoria": "mercado",
+   "posicion": 1,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "42cdecf41f5d8701",
+   "url": "https://www.seroundtable.com/google-search-cdn-42511.html",
+   "titulo": "Google: How Moving to a CDN Can Accidentally Overwhelm Your Website",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-11T15:55:00+00:00",
+   "resumen": "Gary Illyes and Chery Prommawin released the final video in the Non-Canonical Cabinet series, this one is on CDNs, content delivery networks. They discuss why migrating a website to a CDN can suddenly increase Googlebot crawling activity, why this may overload your origin server, and how to avoid accidentally blocking Google's crawlers.",
+   "categoria": "mercado",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "07fa0de985121d8d",
+   "url": "https://www.seroundtable.com/google-crawled-discovered-currently-not-indexed-42507.html",
+   "titulo": "Google Crawled/Discovered - Currently Not Indexed A Site Quality Issue",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-11T12:41:00+00:00",
+   "resumen": "This is not new, but hey, John Mueller from Google said it again, getting a status of Crawled/Discovered - Currently Not Indexed within Google Search Console's page indexing report may be a sign that Google doesn't think your site or those pages are high-quality enough to index.",
+   "categoria": "mercado",
+   "posicion": 3,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "2db6f3502323d972",
+   "url": "https://www.seroundtable.com/google-ads-performance-max-page-feeds-update-42503.html",
+   "titulo": "Google Ads Performance Max Page Feeds Updated",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-11T12:11:00+00:00",
+   "resumen": "Google Ads has updated its Page feeds section for Performance Max campaigns to help advertisers understand how it works. These changes look like they should make it easier for advertisers to know which pages to feed to the ad algorithms.",
+   "categoria": "plataformas",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "503acf3e24d7a1f1",
+   "url": "https://www.seroundtable.com/google-ads-brand-lists-library-42506.html",
+   "titulo": "Google Ads Brand Lists Global Brand Library",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-11T12:05:00+00:00",
+   "resumen": "Google updated its About brand settings for Search and Performance Max help document to clarify how to manage brands within your brand list. Specifically, Google said, \"Google's brand library uses single, global canonical brands rather than individual localized or regional variants.\"",
+   "categoria": "plataformas",
+   "posicion": 3,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "eef010c4d496168e",
+   "url": "https://www.seroundtable.com/google-ads-visit-site-description-42444.html",
+   "titulo": "Google Ads Visit Site Link In Mobile Search Ad Description",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-11T12:31:00+00:00",
+   "resumen": "Google Ads is also adding the Visit site link in the mobile ad descriptions for search ads. We saw them on the desktop ads with a Visit site button and also on organic results search and now also as a plain text anchor link in the mobile ad descriptions.",
+   "categoria": "plataformas",
+   "posicion": 4,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
   {
    "id": "8b78602b4f3e28e9",
    "url": "https://www.jonloomer.com/meta-ads-creative-enhancements/",
@@ -289,10 +429,18 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-11-11T11:46:48.731704+00:00",
+ "comprobado_en": "2026-11-11T18:15:32.950170+00:00",
  "pasadas": [
   {
    "hora": "2026-11-11T11:46:48.731704+00:00",
+   "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
+    "Optmyzr Blog: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-11-11T18:15:32.950170+00:00",
    "modo": "normal",
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
