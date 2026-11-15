@@ -1,13 +1,27 @@
 {
- "generado_en": "2026-11-15T11:51:13.492791+00:00",
+ "generado_en": "2026-11-15T17:30:23.895377+00:00",
  "modo": "normal",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
   "Optmyzr Blog: HTTPError"
  ],
- "candidatos": 30,
- "destacados": 4,
+ "candidatos": 31,
+ "destacados": 5,
  "items": [
+  {
+   "id": "c42af491fcbbfda2",
+   "url": "https://www.reddit.com/r/PPC/comments/1xwwzp7/trying_reverse_psychology_on_my_google_shopping/",
+   "titulo": "Trying reverse psychology on my Google Shopping Feed",
+   "fuente": "r/PPC",
+   "publicado": "2026-11-15T14:34:44+00:00",
+   "resumen": "Like many of you, my Google ads tROAS shopping feed has been sucking hard lately - and getting worse. I’ve been at this for years and was stuck chasing lower target and higher budget with worse and worse results as Google branched out looking for traffic. On a campaign that, years ago, could easily hit 1200% I was down to a target of 415% with ballooning CPC with a negatives list of 600+ words trying to filter out waste. Last week with the help of ChatGPT I exported sales from my DB (not Google ",
+   "categoria": "plataformas",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
   {
    "id": "ff2e30fc113ab561",
    "url": "https://ppc.land/italy-fines-meta-eur805m-over-facebooks-access-to-android-photo-galleries/",
@@ -429,10 +443,18 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-11-15T11:51:13.492791+00:00",
+ "comprobado_en": "2026-11-15T17:30:23.895377+00:00",
  "pasadas": [
   {
    "hora": "2026-11-15T11:51:13.492791+00:00",
+   "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
+    "Optmyzr Blog: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-11-15T17:30:23.895377+00:00",
    "modo": "normal",
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
