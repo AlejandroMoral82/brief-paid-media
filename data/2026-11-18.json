@@ -1,14 +1,98 @@
 {
- "generado_en": "2026-11-18T12:52:57.626725+00:00",
+ "generado_en": "2026-11-18T19:12:29.969316+00:00",
  "modo": "normal",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
   "Optmyzr Blog: HTTPError",
   "r/PPC: HTTPError"
  ],
- "candidatos": 54,
- "destacados": 8,
+ "candidatos": 60,
+ "destacados": 13,
  "items": [
+  {
+   "id": "db7663fc90e9f701",
+   "url": "https://www.seroundtable.com/recap-11-18-2026-42565.html",
+   "titulo": "Daily Search Forum Recap: November 18, 2026",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-18T15:00:00+00:00",
+   "resumen": "Here is a recap of what happened in the search forums today...",
+   "categoria": "mercado",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://www.seroundtable.com/images/ser-feature-graphic-recap.png",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "b37cc5bf66e78042",
+   "url": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
+   "titulo": "Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade via @sejournal, @brookeosmundson",
+   "fuente": "Search Engine Journal - PPC",
+   "publicado": "2026-11-18T18:19:49+00:00",
+   "resumen": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns. The post Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade appeared first on Search Engine Journal .",
+   "categoria": "plataformas",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/shutterstock_2714845689_1600x840-358.png",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "10126df2ceaa52c4",
+   "url": "https://www.seroundtable.com/google-ads-ai-max-for-search-for-travel-campaigns-docs-42564.html",
+   "titulo": "Google Ads Releases Several AI Max For Search For Travel Campaigns Help Docs",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-18T12:51:00+00:00",
+   "resumen": "Google has released several new Google Ads help documents on the topic of AI Max for Search for Travel campaigns. This comes as Google begins to migrate Travel campaigns to the new Search campaigns for Travel in Google Ads.",
+   "categoria": "plataformas",
+   "posicion": 2,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/google-airpane-hero-cOXRfL6T.jpg",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "b7afc191951f6fbb",
+   "url": "https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/",
+   "titulo": "Win the holiday shopping season with November’s Demand Gen Drop.",
+   "fuente": "Google Ads & Commerce Blog",
+   "publicado": "2026-11-18T17:00:00+00:00",
+   "resumen": "Take advantage of the holiday peak with YouTube’s November Demand Gen Drop.",
+   "categoria": "plataformas",
+   "posicion": 4,
+   "destacado": true,
+   "imagen": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_November_2026.max-600x600.format-webp.webp",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "2df67e0de77e2d09",
+   "url": "https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/",
+   "titulo": "Google Ads AI Max Is Making More Decisions For You – Here’s What To Audit Now via @sejournal, @brookeosmundson",
+   "fuente": "Search Engine Journal - PPC",
+   "publicado": "2026-11-18T13:00:42+00:00",
+   "resumen": "Audit Google Ads AI Max settings to catch unwanted searches, review generated ad copy, and keep landing pages aligned with campaign goals. The post Google Ads AI Max Is Making More Decisions For You – Here’s What To Audit Now appeared first on Search Engine Journal .",
+   "categoria": "plataformas",
+   "posicion": 5,
+   "destacado": true,
+   "imagen": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/11/google-ads-ai-max-882.png",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
+  {
+   "id": "4be18a0f8a68fe13",
+   "url": "https://www.seroundtable.com/google-ads-commercial-exemptions-us-elections-42547.html",
+   "titulo": "Google Ads New Commercial Exemptions To US Election Advertising Policy",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-18T12:41:00+00:00",
+   "resumen": "Google Ads has added a new exemption to its political content policy for \"Commercial exceptions to US Election Ads.\" This essentially exempts ads that feature candidates solely for government programs or commercial products, without political references, from US Election Ads verification.",
+   "categoria": "plataformas",
+   "posicion": 3,
+   "destacado": false,
+   "imagen": "",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
   {
    "id": "cb2bba53dc7ba63f",
    "url": "https://www.adexchanger.com/ai/websites-arent-just-for-people-anymore-heres-how-marketers-optimize-them-for-agents/",
@@ -766,10 +850,19 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-11-18T12:52:57.626725+00:00",
+ "comprobado_en": "2026-11-18T19:12:29.969316+00:00",
  "pasadas": [
   {
    "hora": "2026-11-18T12:52:57.626725+00:00",
+   "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
+    "Optmyzr Blog: HTTPError",
+    "r/PPC: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-11-18T19:12:29.969316+00:00",
    "modo": "normal",
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
