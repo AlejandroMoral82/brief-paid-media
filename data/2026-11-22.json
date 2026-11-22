@@ -1,14 +1,98 @@
 {
- "generado_en": "2026-11-22T12:25:03.168857+00:00",
+ "generado_en": "2026-11-22T18:10:08.297757+00:00",
  "modo": "normal",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
   "Optmyzr Blog: HTTPError",
   "r/PPC: HTTPError"
  ],
- "candidatos": 28,
- "destacados": 2,
+ "candidatos": 34,
+ "destacados": 4,
  "items": [
+  {
+   "id": "b9fb7198cd0ed9a2",
+   "url": "https://ppc.land/googles-10-000-follower-search-profiles-surface-in-spain-unannounced/",
+   "titulo": "Google's 10,000-follower Search profiles surface in Spain, unannounced",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-22T18:01:14+00:00",
+   "resumen": "Help pages still list only the US, Canada and India, yet creators report access from Spain, Australia and Singapore. What has Google actually confirmed so far?",
+   "categoria": "plataformas",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/google-search-profiles-spain-10000-followers-unannounced-rollout-doorman-velvet-rope-desk-globe.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "39c570a4d6470f6d",
+   "url": "https://ppc.land/iab-tech-lab-gives-four-new-ctv-ad-formats-a-common-measuring-stick/",
+   "titulo": "IAB Tech Lab gives four new CTV ad formats a common measuring stick",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-22T17:22:10+00:00",
+   "resumen": "Pause, menu, screensaver and overlay ads sold by streamers get OM SDK support; squeezeback and in-scene go unnamed. What will ad buyers now be able to verify?",
+   "categoria": "programatica",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/iab-tech-lab-om-sdk-ctv-pause-menu-screensaver-overlay-ads-tailor-measuring-tape-console-tv.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "d3f1f4f546b226cc",
+   "url": "https://ppc.land/77-of-addressable-tv-holdouts-plan-to-start-in-2027-go-addressable-finds/",
+   "titulo": "77% of addressable TV holdouts plan to start in 2027, Go Addressable finds",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-22T17:20:22+00:00",
+   "resumen": "Half of 304 US marketers surveyed expect to spend more on addressable TV in 2027, up from 43% a year ago. Can household-level TV data prove its sales claims?",
+   "categoria": "mercado",
+   "posicion": 1,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/11/go-addressable-advertiser-perceptions-addressable-tv-2027-survey-mailman-console-tv-mailbox-queue.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "c0672414af692e6d",
+   "url": "https://ppc.land/court-blocks-colorado-ai-law-enforcement-until-14-days-after-xai-ruling/",
+   "titulo": "Court blocks Colorado AI law enforcement until 14 days after xAI ruling",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-22T17:18:28+00:00",
+   "resumen": "No investigations either: the stay covers every company, not only xAI, and xAI owes its motion 28 days after final rules. Did Colorado start the clock Nov 19?",
+   "categoria": "mercado",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/11/colorado-ai-law-xai-court-stay-enforcement-14-days-hourglass-locked-starting-gate-sealed-envelope.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "296b73f71e5f5052",
+   "url": "https://ppc.land/merchants-who-send-8-google-checkout-warnings-lose-the-first-one/",
+   "titulo": "Merchants who send 8 Google checkout warnings lose the first one",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-22T17:24:56+00:00",
+   "resumen": "Sellers get 1,000 characters per Prop 65, safety or legal notice in Google's AI checkout. One Google page calls it optional, another mandatory. Which holds?",
+   "categoria": "plataformas",
+   "posicion": 2,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/11/google-merchant-center-consumer-notice-ucp-checkout-7-warnings-card-stack-eighth-pushes-out-first.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "7241b0957fe5128d",
+   "url": "https://ppc.land/site-exits-google-ai-overviews-and-ai-mode-clicks-barely-move/",
+   "titulo": "Site exits Google AI Overviews and AI Mode, clicks barely move",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-22T18:03:12+00:00",
+   "resumen": "Hundreds of thousands of daily impressions vanished after one site used the Search Console opt-out, Brodie Clark says. Will Google's own AI click data agree?",
+   "categoria": "plataformas",
+   "posicion": 3,
+   "destacado": false,
+   "imagen": "https://ppc.land/content/images/2026/11/google-ai-overviews-ai-mode-search-console-opt-out-brodie-clark-shop-blind-vanishing-crowd-steady-door.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
   {
    "id": "ecce0077f995bc15",
    "url": "https://ppc.land/google-analytics-adds-two-alerts-for-missing-or-malformed-customer-data/",
@@ -402,10 +486,19 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-11-22T12:25:03.168857+00:00",
+ "comprobado_en": "2026-11-22T18:10:08.297757+00:00",
  "pasadas": [
   {
    "hora": "2026-11-22T12:25:03.168857+00:00",
+   "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
+    "Optmyzr Blog: HTTPError",
+    "r/PPC: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-11-22T18:10:08.297757+00:00",
    "modo": "normal",
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
