@@ -1,14 +1,154 @@
 {
- "generado_en": "2026-11-26T13:42:29.607762+00:00",
- "modo": "normal",
+ "generado_en": "2026-11-26T19:55:58.591544+00:00",
+ "modo": "degradado",
  "fuentes_fallidas": [
   "Search Engine Land: HTTPError",
   "Optmyzr Blog: HTTPError",
   "r/PPC: HTTPError"
  ],
- "candidatos": 52,
- "destacados": 7,
+ "candidatos": 62,
+ "destacados": 17,
  "items": [
+  {
+   "id": "8777a30bf293cc7b",
+   "url": "https://ppc.land/youtube-tv-cuts-price-of-sports-news-plan-to-49-99-for-new-users-only/",
+   "titulo": "YouTube TV cuts price of Sports + News plan to $49.99 for new users only",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-26T19:54:31+00:00",
+   "resumen": "Six months at the lower rate save new subscribers $132, then the bill rises to $71.99. Past members and trial users are left out of a deal that ends December 2.",
+   "categoria": "mercado",
+   "posicion": 1,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/youtube-tv-sports-news-plan-49-99-new-users-only-ticket-booth-shears-velvet-rope.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "77188d6582a0947f",
+   "url": "https://ppc.land/character-ais-10m-sale-faces-google-objection-over-5-5m-in-bills/",
+   "titulo": "Character.ai's $10m sale faces Google objection over $5.5m in bills",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-26T19:50:35+00:00",
+   "resumen": "Compute deal $5.08m, ads deal $440,613: Google calls both figures wrong and says Play and YouTube accounts cannot move without its contracts. Will a buyer pay?",
+   "categoria": "mercado",
+   "posicion": 2,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/character-ai-google-limited-objection-5-5m-cure-accounts-crate-tethered-to-safe.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "ac6c4e055fd5f8d4",
+   "url": "https://ppc.land/character-ai-asks-judge-to-make-10m-bid-for-users-chats-the-one-to-beat/",
+   "titulo": "Character.ai asks judge to make $10m bid for users' chats the one to beat",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-26T19:48:59+00:00",
+   "resumen": "Bankruptcy watchdog, privacy ombudsman and creditors don't oppose a $350,000 payout if the bidder loses. The sale still faces 43 states and DC from December 7.",
+   "categoria": "mercado",
+   "posicion": 3,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/character-ai-smirks-and-pangs-10m-stalking-horse-users-chats-caged-speech-bubbles-auction.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "fbcf049f73286453",
+   "url": "https://ppc.land/iab-europe-gives-publishers-a-90-day-plan-for-ai-bots-deals-and-ads/",
+   "titulo": "IAB Europe gives publishers a 90-day plan for AI bots, deals and ads",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-26T19:46:24+00:00",
+   "resumen": "Publishers score 12 areas out of 36 points, set rules for seven AI uses and weigh six ways to charge. No prices are given, so who decides what access is worth?",
+   "categoria": "mercado",
+   "posicion": 4,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/iab-europe-publisher-playbook-agentic-web-90-day-plan-seven-ai-uses-seven-doors-doorman.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "8e277d40a7e67af6",
+   "url": "https://ppc.land/iab-australia-without-a-control-group-ad-results-dont-prove-the-ad-worked/",
+   "titulo": "IAB Australia: without a control group, ad results don't prove the ad worked",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-26T19:42:26+00:00",
+   "resumen": "Ad platforms' own lift figures without a random holdout rank as weak evidence in a 47-page guide with input from Google, Meta and Amazon. What holds up, then?",
+   "categoria": "mercado",
+   "posicion": 5,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/iab-australia-incrementality-experiments-guide-control-group-twin-shop-counters-magnifier.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "5d219baf9be95f6d",
+   "url": "https://ppc.land/buyers-bid-more-on-app-ads-with-a-device-id-in-3-of-4-regions-blasto-finds/",
+   "titulo": "Buyers bid more on app ads with a device ID in 3 of 4 regions, Blasto finds",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-26T19:40:24+00:00",
+   "resumen": "In Europe, at most 69% of in-app ad requests carry all four signals buyers check. Nine months of bid data show where the IDs and consent records go missing.",
+   "categoria": "mercado",
+   "posicion": 6,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/blasto-in-app-programmatic-fully-signaled-impression-69-percent-eu-auction-tagged-envelopes.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "9313a2955c04a36c",
+   "url": "https://ppc.land/eu-needed-2-requests-to-get-ai-incident-answers-from-openai-and-anthropic/",
+   "titulo": "EU needed 2 requests to get AI incident answers from OpenAI and Anthropic",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-26T19:39:02+00:00",
+   "resumen": "Replies landed November 24, but Brussels will not say how many incidents touched the EU. Its AI Office is now reviewing the answers, with no timetable given.",
+   "categoria": "mercado",
+   "posicion": 7,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/eu-ai-office-openai-anthropic-two-rfis-ai-incidents-second-questionnaire-hollow-form.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "1c31a0a87e4cfc7e",
+   "url": "https://ppc.land/tea-rings-and-bed-sheets-the-indian-goods-in-walmarts-holiday-range/",
+   "titulo": "Tea, rings and bed sheets: the Indian goods in Walmart's holiday range",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-26T19:37:34+00:00",
+   "resumen": "Sixteen Indian firms, from a Jaipur jeweler to three bed sheet makers, are named. Walmart posted it the same day the US proposed tariffs of up to 25% on India.",
+   "categoria": "mercado",
+   "posicion": 8,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/walmart-indian-brands-holiday-gifting-16-companies-tariff-display-window-toll-barrier.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "86bc05c957bb3cf0",
+   "url": "https://ppc.land/amazons-italian-delivery-firms-can-face-postal-licence-rules-eu-court-says/",
+   "titulo": "Amazon's Italian delivery firms can face postal licence rules, EU court says",
+   "fuente": "PPC Land",
+   "publicado": "2026-11-26T19:36:21+00:00",
+   "resumen": "Sorting parcels, directing local couriers and running lockers can each be postal work, judges found in a 2018 fine case. Italy's Council of State now decides.",
+   "categoria": "mercado",
+   "posicion": 9,
+   "destacado": true,
+   "imagen": "https://ppc.land/content/images/2026/11/amazon-italia-cjeu-postal-licence-sorting-delivery-lockers-stamp-over-parcel-locker.jpg",
+   "texto_disponible": false,
+   "sin_fecha": false
+  },
+  {
+   "id": "425ac04c870c3378",
+   "url": "https://www.seroundtable.com/ask-jeeves-macys-thanksgiving-day-parade-42628.html",
+   "titulo": "Ask Jeeves At Macy's Thanksgiving Day Parade (Old Photos)",
+   "fuente": "Search Engine Roundtable",
+   "publicado": "2026-11-26T19:10:00+00:00",
+   "resumen": "On Thanksgiving day we normally have the Macy's Thanksgiving Day Parade in New York City but today, for the first time, it was postponed due to weather. And Danny Sullivan reminded me that Ask Jeeves, which was an early search engine and lasted nearly 30 years, that Ask Jeeves was at the parade three times.",
+   "categoria": "mercado",
+   "posicion": 10,
+   "destacado": true,
+   "imagen": "https://images.seroundtable.com/jeeves-float-XjK3ADa8.webp",
+   "texto_disponible": true,
+   "sin_fecha": false
+  },
   {
    "id": "85559174f1de236a",
    "url": "https://ppc.land/discords-december-15-policy-names-ad-ids-it-collects-on-sponsored-content/",
@@ -738,11 +878,20 @@
    "sin_fecha": false
   }
  ],
- "comprobado_en": "2026-11-26T13:42:29.607762+00:00",
+ "comprobado_en": "2026-11-26T19:55:58.591544+00:00",
  "pasadas": [
   {
    "hora": "2026-11-26T13:42:29.607762+00:00",
    "modo": "normal",
+   "fuentes_fallidas": [
+    "Search Engine Land: HTTPError",
+    "Optmyzr Blog: HTTPError",
+    "r/PPC: HTTPError"
+   ]
+  },
+  {
+   "hora": "2026-11-26T19:55:58.591544+00:00",
+   "modo": "degradado",
    "fuentes_fallidas": [
     "Search Engine Land: HTTPError",
     "Optmyzr Blog: HTTPError",
